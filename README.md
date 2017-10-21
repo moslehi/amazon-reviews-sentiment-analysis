@@ -6,3 +6,5 @@ The following picture shows the the implemented framework for processing text in
 
 Mathematica is used for the implementation; therefore, you will need Mathematica installed on your computer to be able to view the notebook. I tried different algorithms such as Random Forest (RF), Artificial Neural Networks, SVM, logistic regression and Markov models. In the following you can see the ROC curves for different algorithms. 
 
+
+<img src="https://github.com/moslehi/amazon-reviews-sentiment-analysis/blob/master/results.png" width="800"/>
